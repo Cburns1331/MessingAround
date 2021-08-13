@@ -1,0 +1,4 @@
+/Users/chrisburns/Documents/GitHub/MessingAround/Games/obj/Debug/netstandard2.0/Games.csprojAssemblyReference.cache
+/Users/chrisburns/Documents/GitHub/MessingAround/Games/obj/Debug/netstandard2.0/Games.csproj.CoreCompileInputs.cache
+/Users/chrisburns/Documents/GitHub/MessingAround/Games/obj/Debug/netstandard2.0/Games.AssemblyInfoInputs.cache
+/Users/chrisburns/Documents/GitHub/MessingAround/Games/obj/Debug/netstandard2.0/Games.AssemblyInfo.cs
